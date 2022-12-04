@@ -14,10 +14,19 @@ A Responsive Website Built using HTML, CSS and Javascript.
 <br>
 
 # Table of Contents
+- [Demo](#Demo)
 - [Features](#Features)
 - [Installation](#Installation)
 - [Tech-Stack](#Tech-Stack)
 - [Project-References](#References)
+
+<br>
+<br>
+
+# Demo
+
+<img src="assets/img/demo1.png">
+<img src="assets/img/Demo2.png">
 
 <br>
 <br>
